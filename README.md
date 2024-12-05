@@ -5,5 +5,4 @@ This tutorial is for anyone wanting to learn Markdown and/or GitHub basics. Usin
 
 ## Table of Contents
 1. [Making a GitHub Repository](repository.md)
-2. Basic Markdown Syntax
-3. Linking to Multiple Pages
+2. [Basic Markdown Syntax](markdownsyntax.md)
